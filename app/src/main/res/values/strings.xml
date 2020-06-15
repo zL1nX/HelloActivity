@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloActivity</string>
+    <string name="button_1">Button 1</string>
+    <string name="add">Add</string>
+    <string name="remove">remove</string>
+    <string name="button_2">button_2</string>
+    <string name="button_3">button_3</string>
+    <string name="your_key">your_key</string>
+</resources>
