@@ -2,16 +2,6 @@ package com.example.helloactivity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import org.bouncycastle.crypto.engines.SM4Engine;
-import org.bouncycastle.crypto.params.KeyParameter;
-import org.bouncycastle.jcajce.provider.symmetric.SM4;
-import org.bouncycastle.jce.provider.BouncyCastleProvider;
-import org.bouncycastle.jce.ECNamedCurveTable;
-import org.bouncycastle.jce.spec.ECParameterSpec;
-import org.bouncycastle.jce.spec.ECPrivateKeySpec;
-import org.bouncycastle.jce.spec.ECPublicKeySpec;
-
-
 
 import android.content.Intent;
 import android.os.Bundle;
